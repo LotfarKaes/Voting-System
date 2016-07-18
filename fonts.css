@@ -1,0 +1,15 @@
+/* 
+    Document   : Style1
+    Created on : Jan 10, 2013, 4:03:46 PM
+    Author     : Student
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+
+
+/* @import must be at top of file, otherwise CSS will not work */
+@import url("//hello.myfonts.net/count/25d0d2");
+
+  
+@font-face {font-family: 'Variable-Bold';src: url('webfonts/25D0D2_0_0.eot');src: url('webfonts/25D0D2_0_0.eot?#iefix') format('embedded-opentype'),url('webfonts/25D0D2_0_0.woff') format('woff'),url('webfonts/25D0D2_0_0.ttf') format('truetype');}
